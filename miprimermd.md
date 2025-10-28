@@ -1,4 +1,4 @@
-```markdown
+
 # Este es mi título principal
 ## Este es un subtítulo
 
