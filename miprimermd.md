@@ -2,7 +2,7 @@
 # Este es mi título principal
 ## Este es un subtítulo
 
-Este es un párrafo de ejemplo donde hay **palabras en negrita**, *palabras en cursiva* y `palabras en código`.
+Este es un párrafo de ejemplo donde hay **palabras en negrita** *palabras en cursiva* y `palabras en código`.
 
 ```java
 // Este es un trozo de código en Java
@@ -11,7 +11,8 @@ public class HolaMundo {
         System.out.println("¡Hola, Markdown!");
     }
 }
-```markdown
+´´´
+
 1. UNO
 2. DOS
 3. TRES
